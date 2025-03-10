@@ -1,12 +1,12 @@
 # Building Android Application To Detect Doctored Images Using Deep Learning Model
 
 ## Problem Statement
-Develop an Android app that can detect digitally modied photos in multiple formats (Jpeg,
+Develop an Android app that can detect digitally modified photos in multiple formats (Jpeg,
 png) and anticipate whether the output will be Authentic or Doctored based on the image
 states.
 
 ## Objectives
-1. Develop an Android app that can detect digitally modied photos in multiple formats (Jpeg,
+1. Develop an Android app that can detect digitally modified photos in multiple formats (Jpeg,
 png) and anticipate whether the output will be Authentic or Doctored based on the image
 states.
 2. Model should be capable of supporting multiple image format.
